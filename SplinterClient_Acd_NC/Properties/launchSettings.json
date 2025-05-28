@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SplinterClient_Acd_NC": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Autodesk\\AutoCAD 2026\\acad.exe",
+      "nativeDebugging": false,
+      "managedDebugger": "Core"
+    }
+  }
+}

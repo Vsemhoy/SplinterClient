@@ -4,7 +4,8 @@ using System.Text;
 
 namespace SplinterCoreNTS.Entity.Emitters
 {
-    internal class OmniDirectionalEmitter
+    internal class OmniDirectionalEmitter : BaseEmitter
     {
+
     }
 }

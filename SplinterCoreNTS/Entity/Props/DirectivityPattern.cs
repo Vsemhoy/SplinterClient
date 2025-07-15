@@ -6,7 +6,7 @@ namespace SplinterCoreNTS.Entity.Props
 {
 
     /// <summary>
-    /// Flat Sound pressure directivity pattern
+    /// Flat 2d Sound pressure directivity pattern
     /// </summary>
     public class DirectivitySlice
     {
